@@ -1,0 +1,47 @@
+i {
+    color: orange;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.h1 {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    padding: 20px;
+    padding-left: 40px;
+    font-size: 3rem;
+}
+
+img {
+    width: 200px;
+    height: 170px;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+#i1 {
+    float: left;
+}
+
+#i2 {
+    float: left;
+}
+
+.d1 {
+    display: inline-block;
+    /* border: 2px solid black; */
+    width: 40%;
+    margin-left: 40px;
+}
+
+#f1 {
+    /* border: 2px solid black; */
+    width: 8%;
+    position: absolute;
+    left: 90%;
+    top: 93%;
+}
+
+b {
+    font-size: 2em;
+}

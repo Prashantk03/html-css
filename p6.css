@@ -1,0 +1,15 @@
+.mains{
+    color: aliceblue;
+}
+
+#pk{
+    color: bisque;
+}
+
+h1[draggable]{
+    color: brown;
+}
+
+*{
+    text-align: center;
+}

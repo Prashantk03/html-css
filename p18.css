@@ -1,0 +1,19 @@
+.container{
+    height: 50vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2.5rem;
+}
+.i{
+    background-color: red;
+    text-align: center;
+}
+.j{
+    background-color: green;
+    text-align: center;
+}
+.k{
+    background-color: blue;
+    text-align: center;
+}

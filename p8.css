@@ -1,0 +1,23 @@
+#div1{
+    border: 10px solid blue;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+#div2{
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 259px;
+    background-color: cadetblue;
+}
+
+#div3{
+    border: 10px solid gold;
+    margin-left: 40px;
+    background-color: darkslateblue;
+}
+
+.d{
+    height: 200px;
+    width: 200px;
+} 

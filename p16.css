@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+#V{
+    background-color: violet;
+}
+#I{
+    background-color: indigo;
+}
+#B{
+    background-color: blue;
+}
+#G{
+    background-color: green;
+}
+#Y{
+    background-color: yellow;
+}
+#O{
+    background-color: orange;
+}
+#R{
+    background-color: red;
+}
+.d1{
+    /* border: 2px solid black; */
+    /* width: 50px; */
+    height: 100px;
+}
